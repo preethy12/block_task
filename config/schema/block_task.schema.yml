@@ -1,0 +1,7 @@
+block.settings.block_task_block_task:
+  type: block_settings
+  label: 'block task block'
+  mapping:
+    example:
+      type: string
+      label: Example
